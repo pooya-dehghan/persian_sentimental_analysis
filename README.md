@@ -5,3 +5,4 @@ project will be completed in few steps and for first part we train on labeled da
 
 # Name
 this project goes by name persian textCNN analysis.
+
